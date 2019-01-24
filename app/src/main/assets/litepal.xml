@@ -1,0 +1,9 @@
+<Litepal>
+    <dbname value="weatherApp"/>
+    <version value="1"/>
+    <list>
+        <mapping class="cn.tnicy.weatherapptest.db.Province"/>
+        <mapping class="cn.tnicy.weatherapptest.db.City"/>
+        <mapping class="cn.tnicy.weatherapptest.db.County"/>
+    </list>
+</Litepal>
